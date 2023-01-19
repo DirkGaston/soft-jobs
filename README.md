@@ -17,8 +17,6 @@
 
 _This project was developed as the **JWT User Authentication and Authorization** assignment in the **Backend with Node and Express** course for Desafio LATAM's **Full Stack with JavaScript** bootcamp_
 
-![](https://i.giphy.com/media/1dK4drLrS3Kik38vhl/giphy.webp)
-
 ## Assignment Background 📖
 
 The company Soft Jobs has initiated the development of a platform that seeks to support the junior developer community to get short and simple jobs to accumulate work experience and improve their opportunities.
@@ -29,10 +27,10 @@ You will have to use a client application developed with React ready to consume 
 
 A few images of the client side application:
 
-![](https://i.imgur.com/FwsiYqs.png) <br>
-![](https://i.imgur.com/9RJ9Tpa.png) <br>
-![](https://i.imgur.com/TmppXeZ.png) <br>
-![](https://i.imgur.com/g1KMlES.png) <br>
+![](https://i.imgur.com/FwsiYqs.png) <br> <br>
+![](https://i.imgur.com/9RJ9Tpa.png) <br> <br>
+![](https://i.imgur.com/TmppXeZ.png) <br> <br>
+![](https://i.imgur.com/g1KMlES.png) <br> <br>
 
 The server will need to:
 
